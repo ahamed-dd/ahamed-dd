@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi, I’m Ahamed
 
-Backend-heavy full-stack developer focused on building clean APIs and simple, usable web apps.
+Full-stack developer focused on building clean APIs and simple, usable web apps.
 
 ### Tech stack
 - **Backend:** Python, Django, Django REST Framework, PostgreSQL  
