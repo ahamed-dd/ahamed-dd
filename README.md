@@ -13,20 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I’m Ahamed
-
-Full-stack developer focused on building clean APIs and simple, usable web apps.
+🔗 Portfolio: https://ahamed-beige.vercel.app/
+Full-stack developer focused on building **reliable APIs** and **practical web applications**, with exposure to cloud deployment and data-driven features.
 
 ### Tech stack
-- **Backend:** Python, Django, Django REST Framework, PostgreSQL  
+- **Backend:** Python, Django, Django REST Framework, PostgreSQL, MySQL
 - **Frontend:** React, TypeScript, JavaScript  
-- **UI:** CSS (Flexbox, Grid), responsive layouts, SVGs  
-- **APIs:** REST APIs, JWT authentication, Axios  
-- **Tools:** Git, GitHub Actions, VS Code
+- **UI:** CSS, responsive layouts, Tailwind
+- **APIs & Auth:** RESTful design, JWT authentication, Axios  
+- **Cloud & Tools:** AWS, Git, GitHub Actions, VS Code  
+- **Other:** Linux fundamentals, Power BI, NLP concepts
 
 ### What I work on
-- Building and structuring REST APIs with Django REST Framework  
-- Connecting backend data to React apps with proper TypeScript typing  
-- Solving real development issues like authentication, API integration, and deployment errors  
-- Writing code that is clear, practical, and easy to maintain
+- Designing and implementing **well-structured REST APIs** using Django REST Framework  
+- Integrating backend services with **typed React frontends** using TypeScript  
+- Following a **basic SDLC workflow** using Jira for task tracking and iteration  
+- Handling real development problems like **authentication flows, API errors, deployment, and environment issues**  
+- Exploring **data visualization (Power BI)** and **NLP fundamentals** through focused projects
 
-I focus on fundamentals, real-world problems, and learning by building.
+I focus on real-world use cases, and improving by building complete projects end to end.
+
