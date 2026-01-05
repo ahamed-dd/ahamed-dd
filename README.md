@@ -28,9 +28,9 @@ Full-stack developer focused on building **reliable APIs** and **practical web a
 ### What I work on
 - Designing and implementing **well-structured REST APIs** using Django REST Framework  
 - Integrating backend services with **typed React frontends** using TypeScript  
-- Following a **basic SDLC workflow** using Jira for task tracking and iteration  
-- Handling real development problems like **authentication flows, API errors, deployment, and environment issues**  
-- Exploring **data visualization (Power BI)** and **NLP fundamentals** through focused projects
+- Following a **SDLC workflow** using Jira for task tracking and iteration  
+- Building and Maintaining **End-to-End Web Applications** from planning to production 
+- Exploring **data visualization (Power BI)** and **NLP** through focused projects
 
 I focus on real-world use cases, and improving by building complete projects end to end.
 
