@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi, I’m Ahamed
 🔗 Portfolio: https://ahamed-beige.vercel.app/
+
 Full-stack developer focused on building **reliable APIs** and **practical web applications**, with exposure to cloud deployment and data-driven features.
 
 ### Tech stack
